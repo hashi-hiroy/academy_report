@@ -2,13 +2,13 @@
 
 
 
-[修了課題レポートNo.1](https://hashi-hiroy.github.io/academy_report/academy_report_no1.mht)
+[修了課題レポートNo.1](https://hashi-hiroy.github.io/academy_report/academy_report_no1.mhtml) (mhtml形式)
 
-[修了課題レポートNo.1](https://hashi-hiroy.github.io/academy_report/academy_report_no1.pdf)
+[修了課題レポートNo.1](https://hashi-hiroy.github.io/academy_report/academy_report_no1.pdf) (PDF)
 
-[修了課題レポートNo.2](https://hashi-hiroy.github.io/academy_report/academy_report_no2.mht)
+[修了課題レポートNo.2](https://hashi-hiroy.github.io/academy_report/academy_report_no2.mhtml) (mhtml形式)
 
-[修了課題レポートNo.2](https://hashi-hiroy.github.io/academy_report/academy_report_no2.pdf)
+[修了課題レポートNo.2](https://hashi-hiroy.github.io/academy_report/academy_report_no2.pdf) (PDF)
 
 
 <br/>
